@@ -105,8 +105,9 @@ color: white;
     left: 0;
 }
 
-.navbar-toggle{
+.navbar-toggle {
     margin-top: 18px;
+    margin-right: 20px;
 }
 /**********end navbar***************/
 /**********start carousal***************/
